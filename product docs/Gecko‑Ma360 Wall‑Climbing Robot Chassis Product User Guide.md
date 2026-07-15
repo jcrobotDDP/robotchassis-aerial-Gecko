@@ -314,8 +314,10 @@ d) **Receiver power:** Default power is supplied from the driver, output 5V/20mA
 
 ***VCUmin is optional and not included as standard:***
 
-> This is a Yuque content card. Click to view: [https://www.yuque.com/jichuangjiqirenjcrobot/zfekm1/rhcqsp6bkhugarq9?singleDoc#%20《JC-GECKO-02_UserManual》](http://invalid.uri)
+> Click to view:
 
+ [VCUmini_UserManual]((https://github.com/jcrobotDDP/JCROBOT-Product-Development-Documentation/blob/main/docs/VCUmini_UserManual.md)
+ 
 ---
 
 ### 6.7 Safety Precautions
