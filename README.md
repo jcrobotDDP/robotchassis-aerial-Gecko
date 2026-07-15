@@ -5,7 +5,10 @@
 
 ### Aerial Series
 - [Gecko-Ma360 Wall-Climbing Robot Chassis Product User Guide](https://github.com/jcrobotDDP/robotchassis-aerial-Gecko/blob/main/product%20docs/Gecko%E2%80%91Ma360%20Wall%E2%80%91Climbing%20Robot%20Chassis%20Product%20User%20Guide.md)
-  
+
+- [Gecko-Ma600 Wall-Climbing Robot Chassis Product User Guide](https://github.com/jcrobotDDP/robotchassis-aerial-Gecko/blob/main/product%20docs/Gecko%E2%80%91Ma600%20Wall%E2%80%91Climbing%20Robot%20Chassis%20Product%20User%20Guide.md)
+
+- [Gecko-Ma600G Wall-Climbing Robot Chassis Product User Guide](https://github.com/jcrobotDDP/robotchassis-aerial-Gecko/blob/main/product%20docs/Gecko%E2%80%91Ma600G%20Wall%E2%80%91Climbing%20Robot%20Chassis%20Product%20User%20Guide.md)
 
 ## 📁 Repository Structure
 
@@ -14,8 +17,8 @@
 ├── README.md                    # Repository main document
 ├── product docs/                        # User Manual Folder
 │   ├── Gecko-Ma360 Wall-Climbing Robot Chassis Product User Guide
-│   ├── Gecko-Ma600G Wall-Climbing Robot Chassis Product User Guide
 │   ├── Gecko-Ma600 Wall-Climbing Robot Chassis Product User Guide
+│   ├── Gecko-Ma600G Wall-Climbing Robot Chassis Product User Guide
 └── 
     
 ```
