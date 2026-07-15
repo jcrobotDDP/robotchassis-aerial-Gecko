@@ -316,7 +316,7 @@ d) **Receiver power:** Default power is supplied from the driver, output 5V/20mA
 
 > Click to view:
 
- [VCUmini_UserManual]((https://github.com/jcrobotDDP/JCROBOT-Product-Development-Documentation/blob/main/docs/VCUmini_UserManual.md)
+ [VCUmini_UserManual](https://github.com/jcrobotDDP/JCROBOT-Product-Development-Documentation/blob/main/docs/VCUmini_UserManual.md)
  
 ---
 
